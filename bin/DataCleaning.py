@@ -2,7 +2,7 @@
 #Author: Pulkit Anupam Srivastava
 #Co-authors: Eric L. Hegg, Michigan State University
 #	     Brian G. Fox, University of Wisconsin-Madison
-#	     Rahothaman M. Yennamalli, Jaypee University of Information Technology
+#	     Ragothaman M. Yennamalli, Jaypee University of Information Technology
 #Version: 1.0
 #Last Modified: 26 Feb, 2019
 #Description: The script filters out protein sequences with "X" amino acid.
