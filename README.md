@@ -21,7 +21,7 @@ A neural network based prediction tool for functional annotation of Lytic Polysa
   
   **Framework**:
   
-  ![Framework of the NN implemented in both approaches.](https://github.com/PulkiD/PreDSLpmo/blob/master/ImagesPreview/Figure_1.tif)
+  ![Framework of the NN implemented in both approaches.](https://github.com/PulkiD/PreDSLpmo/blob/master/Images/Figure_1.tif)
   
   A) Input layer that was composed of a number of neurons equal to the number of descriptors in each features-set. Finally,  two hidden
   layers with ReLU activation function and an output layer composed of two neurons with sigmoid activation function was implemented to
@@ -38,7 +38,7 @@ A neural network based prediction tool for functional annotation of Lytic Polysa
   improvement in predictive power when compared with dbCAN2, an existing HMM-profile-based CAZyme predicting tool, on both validation
   and independent benchmark sets.
   
-  ![Results.](https://github.com/PulkiD/PreDSLpmo/blob/master/ImagesPreview/Figure_2.tif)
+  ![Results.](https://github.com/PulkiD/PreDSLpmo/blob/master/Images/Figure_2.tif)
 
 # File Description
   - bin
