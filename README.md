@@ -1,5 +1,6 @@
 # PreDSLpmo
 A neural network based prediction tool for functional annotation of Lytic Polysaccharide Monooxygenases
+PreDSLpmo has been published in Journal of Biotechnology. PreDSLpmo: a neural network-based prediction tool for functional annotation of lytic polysaccharide monooxygenases. (DOI: https://doi.org/10.1016/j.jbiotec.2019.12.002)
 
 # Requirements
   - Python v3.5 or above
